@@ -7,9 +7,9 @@
 - 📝 I regularly write articles on [thetesterdude.blogspot.com](https://thetesterdude.blogspot.com/)
 
 - 📄 Talks & Blog: 
-- * [Success mantra for newbie tester to overcome obstacles/fear at TestFlix 2020](https://youtu.be/acPBJhDXwKw) 
-- * [Quick recipes to generate test ideas at Synapse QA](https://synapse-qa.com/2021/01/22/quick-recipes-to-generate-test-ideas/)
-- * Introduction to Software testing and Test Automation at Karpagam Institute of Technology
+  * [Success mantra for newbie tester to overcome obstacles/fear at TestFlix 2020](https://youtu.be/acPBJhDXwKw) 
+  * [Quick recipes to generate test ideas at Synapse QA](https://synapse-qa.com/2021/01/22/quick-recipes-to-generate-test-ideas/)
+  * Introduction to Software testing and Test Automation at Karpagam Institute of Technology
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
