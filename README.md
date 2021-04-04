@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋, I'm Lingesh S D</h1>
 <h3 align="center">A passionate software tester from India. Skilled in Functional testing, Manual/Automation testing using Appium, Selenium. Always try to learn and experiment with new things in software testing.</h3>
 
-- 📝 I regularly write articles on [https://thetesterdude.blogspot.com/](https://thetesterdude.blogspot.com/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lingeshsd&label=Profile%20views&color=0e75b6&style=flat" alt="lingeshsd" /> </p>
 
-- 📄 Talks & Blog [> https://www.thetesttribe.com/testflix-lingesh-suresh/ > https://synapse-qa.com/2021/01/22/quick-recipes-to-generate-test-ideas/](> https://www.thetesttribe.com/testflix-lingesh-suresh/ > https://synapse-qa.com/2021/01/22/quick-recipes-to-generate-test-ideas/)
+
+- 📝 I regularly write articles on [thetesterdude.blogspot.com](https://thetesterdude.blogspot.com/)
+
+- 📄 Talks & Blog: 
+- * [Success mantra for newbie tester to overcome obstacles/fear at TestFlix 2020](https://youtu.be/acPBJhDXwKw) 
+- * [Quick recipes to generate test ideas at Synapse QA](https://synapse-qa.com/2021/01/22/quick-recipes-to-generate-test-ideas/)
+- * Introduction to Software testing and Test Automation at Karpagam Institute of Technology
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hthttps://twitter.com/lingeshsuresh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hthttps://twitter.com/lingeshsuresh" height="30" width="40" /></a>
+<a href="https://twitter.com/lingeshsuresh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lingeshsuresh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/lingeshsuresh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/lingeshsuresh" height="30" width="40" /></a>
+<a href="https://medium.com/@lingeshsuresh12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@lingeshsuresh12" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
