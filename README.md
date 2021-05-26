@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lingeshsd&label=Profile%20views&color=0e75b6&style=flat" alt="lingeshsd" /> </p>
 
 
-- 📝 I regularly write articles on [thetesterdude.blogspot.com](https://thetesterdude.blogspot.com/)
+- 📝 I regularly write articles on [thetesterdude.wordpress.com](https://thetesterdude.wordpress.com/)
 
 - 📄 Talks & Blog: 
   * [Success mantra for newbie tester to overcome obstacles/fear at TestFlix 2020](https://youtu.be/acPBJhDXwKw) 
